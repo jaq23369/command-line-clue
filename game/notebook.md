@@ -1,20 +1,45 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
-- [ ] The Florist
-- [ ] The Blacksmith
+- [x] The Shopkeeper
+- [x] The Teacher
+- [x] The Artist
+- [ ] The Librarian
+- [ ] The Mayor
 
 ## Weapons
-- [x] Fountain Pen
-- [ ] Bronze Trophy
-- [ ] Paint Brush
+- Paint Brush
+- Glass Bottle
+- Leather Gloves
+- Magnifying Glass
+- Heavy Book
 
-## Notes
-*Use this space to record your findings and deductions...*
+## Investigation Findings
 
-Kitchen finding:
-- Fountain Pen found in kitchen
-- New clue: Check the shops
+### Kitchen (Bakery)
+- Found **Heavy Book** in the kitchen.
+- No persons present.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+### Shops
+- Found **Paint Brush** in the shops.
+- The Shopkeeper was in the café and is not a suspect.
+
+### Town Hall
+- Found **Glass Bottle** and **Leather Gloves** in the records room.
+- Found **Magnifying Glass** in the archives.
+- The Teacher was present in the town hall and is not a suspect.
+- The Artist was found in the records room and is not a suspect.
+
+### Council Chamber
+- The council chamber is confirmed as the **crime scene**. The empty state of the room aligns with witness accounts, confirming no one was present when the crime occurred.
+
+## Investigation Conclusion
+The crime occurred in the **council chamber**, and all findings have been documented.
+
+### Final Notes
+- Remaining suspects:
+  - The Librarian
+  - The Mayor
+- Remaining weapons:
+  - TBD based on further elimination.
+
